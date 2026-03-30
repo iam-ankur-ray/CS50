@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="L5-data-structures" />
+        <module name="L3-algorithms" />
+        <module name="L6-ai" />
+        <module name="L2-arrays" />
+        <module name="L1-fundamental" />
+        <module name="L4-memory" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Fundamentals" target="25" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

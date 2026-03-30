@@ -4,7 +4,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Fundamentals/pom.xml" />
+        <option value="$PROJECT_DIR$/L2-arrays/pom.xml" />
+        <option value="$PROJECT_DIR$/L3-algorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/L4-memory/pom.xml" />
+        <option value="$PROJECT_DIR$/L5-data-structures/pom.xml" />
+        <option value="$PROJECT_DIR$/L6-ai/pom.xml" />
+        <option value="$PROJECT_DIR$/L1-fundamental/pom.xml" />
       </list>
     </option>
   </component>
