@@ -31,7 +31,7 @@ public class GradeEvaluator {
             System.out.println("You are failed with E grade, please learn more " + name);
         }
 
-        if(marks < 0 && marks > 100){
+        if(marks < 0 || marks > 100){
             System.out.println("You have input an invalid marks " + name);
         }
     }
