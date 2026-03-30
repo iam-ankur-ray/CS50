@@ -1,9 +1,5 @@
 package org.ray;
 
-import java.util.Scanner;
-
-import static org.ray.BasicCalculator.basicCalculator;
-
 public class Main {
     public static void main(String[] args) {
         printPyramidOfCertainHeight(5);
